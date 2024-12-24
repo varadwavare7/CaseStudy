@@ -29,3 +29,30 @@ ROC-AUC score and visualization.
 Recommendations:
 
 Strategies for aggressive and conservative lead conversion campaigns based on business scenarios.
+
+
+Installation
+
+Prerequisites:
+
+Python 3.8 or higher
+
+Libraries:
+
+pandas
+
+numpy
+
+scikit-learn
+
+matplotlib
+
+seaborn
+
+Usage
+
+Run the Jupyter notebook to process the dataset and build the logistic regression model.
+
+Generate lead scores and predict conversion probabilities.
+
+Use the insights from feature importance and evaluation metrics to optimize business strategies.
